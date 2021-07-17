@@ -1,1 +1,15 @@
 Link para download do Git: https://git-scm.com/downloads
+
+Comando importantes do Git para detectar mudanças nos arquivos e pastas
+git status
+
+Comando para adicionar todas as mudanças ao "Stage"
+git add .	ou 	git add *
+
+Comando para "commitar" as mudanças no arquivo
+git commit -m 'Mensagem do Commit'
+
+A tag -m indica a msg que aparecerá junto ao Commit no GitHub
+
+Comando para "empurrar" o código para o repositório online
+git push origin main
