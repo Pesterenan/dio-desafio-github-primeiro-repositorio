@@ -1,4 +1,4 @@
-package br.com.pesterenan;
+package br.com.pesterenan.paradigma_orientacao_objetos;
 
 public class TesteCarro {
 
