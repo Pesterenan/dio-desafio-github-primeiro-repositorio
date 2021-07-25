@@ -13,3 +13,8 @@ A tag -m indica a msg que aparecerá junto ao Commit no GitHub
 
 Comando para "empurrar" o código para o repositório online
 git push origin main
+
+
+Desenvolvimento Java - Trabalhando com Datas.
+
+O comando "%tc\n" usado no printf faz com que a data seja mostrada por extenso no padrão brasileiro.
